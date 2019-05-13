@@ -10,7 +10,7 @@ It's a book about frontend interview question. We hope that it will help all jav
  - If you don't want to wait, you can buy [Yuri's JavaScript Flashcards](http://flashcardsjs.com), a set of frontend interview questions sorted by popularity among the interviewers printed on beautiful poker-size flashcards.
  
 ## More Lnks :
-https://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers)
+[CodeProject Questions](https://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers)
 
 [Javascript Interview - 2](https://www.webcodegeeks.com/wp-content/uploads/2016/01/JavaScript-Interview-Questions.pdf)
 
