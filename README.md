@@ -8,6 +8,13 @@ It's a book about frontend interview question. We hope that it will help all jav
 
  - This Book will be completed by September 2018 and then it will be available to buy. If you want me to sent an early copy of this book, please add your name and email address in google form here [Google Form](https://goo.gl/forms/c8ubV1tWBBdz6fJP2).
  - If you don't want to wait, you can buy [Yuri's JavaScript Flashcards](http://flashcardsjs.com), a set of frontend interview questions sorted by popularity among the interviewers printed on beautiful poker-size flashcards.
+ 
+## More Lnks :
+https://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers)
+
+[Javascript Interview - 2](https://www.webcodegeeks.com/wp-content/uploads/2016/01/JavaScript-Interview-Questions.pdf)
+
+[Javascript Interview - 3](http://faculty.washington.edu/blabob/bob/Docs/Web%20Developer%20Interview%20Questions%20And%20Answers.pdf)
 
 ## Question 1. What's the difference between `undefined` and `not defined` in JavaScript
 
